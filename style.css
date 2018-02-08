@@ -1,0 +1,56 @@
+body {
+  background-color: white;
+  text-align: center;
+  font-family: 'Parisienne', cursive;
+}
+#header {
+  background-color: blue;
+  color: white;
+  /* display: block; */
+}
+#header a {
+  color: white;
+  text-decoration: none;
+}
+.header-title {
+  font-size: 64pt;
+}
+.header-list ul  {
+  display: flex;
+  justify-content:space-around;
+  ist-style-type:none;
+}
+.header-list ul li {
+  display:inline;
+  font-size: 18pt;
+}
+#content {
+  display: block;
+  background-color: white;
+  color: black;
+  height: auto;
+}
+#content a {
+  color: black;
+  text-decoration: underline;
+}
+.blog-post {
+  background-color: lightgray;
+  margin: 2pt;
+}
+#footer {
+  display: block;
+  background-color: lightgray;
+  color: blue;
+  font-size: 18pt;
+}
+#footer a {
+  color: blue;
+  text-decoration: none;
+}
+.nav-column li {
+  display: inline;
+}
+ol li {
+  font-size: 24pt;
+}
