@@ -55,4 +55,4 @@ body {
 ol li {
   font-size: 18pt;
 }
-ol { padding-left:1em; }
+ol, ol li { margin-left: 0; padding-left: 0; }
