@@ -55,3 +55,4 @@ body {
 ol li {
   font-size: 18pt;
 }
+ol { padding-left:1em; }
