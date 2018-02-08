@@ -29,6 +29,7 @@ body {
   background-color: white;
   color: black;
   height: auto;
+  margin-left:3pt;
 }
 #content a {
   color: black;
